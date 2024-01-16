@@ -60,7 +60,7 @@ Button untuk keluar dari aplikasi. Sebelum keluar ada pop-up konfirmasi untuk ya
 Anda dapat berkontribusi dengan membuat _fork_ dan mengirimkan _pull request_.
 
 
-========================
+
 BUILD OUTPUT DESCRIPTION
 ========================
 
